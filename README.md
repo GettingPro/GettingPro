@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GettingPro
 - 👀 I’m interested in Java/QA/Automation
-- 🌱 I’m currently learning Java/JS
+- 🌱 I’m currently learning Java/JS/Flutter
 - 💞️ I’m looking to collaborate on any web based projects.
 - 📫 How to reach me: //TODO
 
